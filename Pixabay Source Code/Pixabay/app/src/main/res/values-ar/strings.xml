@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="like"> اعجاب  </string>
+    <string name="comment"> تعليق  </string>
+    <string name="view"> مشاهدة </string>
+    <string name="downloads"> تنزيل  </string>
+    <string name="app_name">بيكساباي</string>
+    <string name="download">التنزيلات</string>
+    <string name="search">بحث باللغة الانجليزبة</string>
+    <string name="name">الاسم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="loading">تحميل ...</string>
+    <string name="no_images">لا توجد صور</string>
+    <string name="all_favourite_images">الصور المفضلة</string>
+    <string name="NoInternetConnection">لا يوجد اتصال بالانترنت</string>
+    <string name="Permission_Required">لا يمكن تنزبل الصورة علي الجهاز بدون هذه الصلاحية</string>
+    <string name="Clicked_Image_Tag" translatable="false">Clicked_Image</string>
+    <string name="SharedPreferencesUserName" translatable="false">Name</string>
+    <string name="SharedPreferencesName" translatable="false">SharedPreferences</string>
+    <string name="SharedPreferencesUserPassword" translatable="false">Password</string>
+</resources>

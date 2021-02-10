@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pixabay</string>
+    <string name="download">Download</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+    <string name="like"> Like    </string>
+    <string name="comment"> Comment </string>
+    <string name="view"> View    </string>
+    <string name="downloads"> Download</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loading">loading ...</string>
+    <string name="no_images">No Images</string>
+    <string name="all_favourite_images">All Favourite Images</string>
+    <string name="NoInternetConnection">No Internet Connection</string>
+    <string name="Permission_Required">This Permission Is Required To Download This Image</string>
+    <string name="Clicked_Image_Tag" translatable="false">Clicked_Image</string>
+    <string name="SharedPreferencesUserName" translatable="false">Name</string>
+    <string name="SharedPreferencesName" translatable="false">SharedPreferences</string>
+    <string name="SharedPreferencesUserPassword" translatable="false">Password</string>
+</resources>
